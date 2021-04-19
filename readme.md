@@ -8,5 +8,8 @@
 # Paso a paso A
 Cambios A
 
-# Paso a paso B
+# Paso b paso B
 Cambios B
+
+# Paso C paso C
+Cambios C
